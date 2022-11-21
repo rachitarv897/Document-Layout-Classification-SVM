@@ -1,4 +1,4 @@
-# Document-Layout-Clustering-Kmeans
+# Document-Layout-Classification-SVM
 Scanned Document layout clustering using Kmeans
 1)	Using Google’s Inception V3 model for extracting the features of the image to be classified.
 2)	Inception V3 basically is used to categorize objects present inside any image, it can also present the image features(Spatial, textural etc) in form of an array.
